@@ -24,7 +24,7 @@ Your rule as front-end developer is not to design user interfaces but to build i
 - [Design for Developers](https://frontendmasters.com/courses/design-for-developers/)
 - [Responsive Web Typography v2](https://frontendmasters.com/courses/responsive-typography-v2/) - typography is cruical for brands. it invoke certain feelings. this workshop is a great overview for typography.
 - [The Best Resources For Designers In One Place](https://www.bookmarks.design/)
--
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ## A11y
 
@@ -55,3 +55,31 @@ Your rule as front-end developer is not to design user interfaces but to build i
 ## Package Managers
 
 - [npm vs Yarn Commands Cheat Sheet](https://alligator.io/nodejs/npm-yarn-cheatsheet/)
+
+## CSS in JS
+
+- [styled component docs](https://styled-components.com/docs) - styled component is a new way of writing CSS. it enforces the idea of coupling the markup, styles and the javascript logic for each component. a great way of styling react and react native applications.
+- [React Styled Components Tutorial](https://www.youtube.com/watch?v=syqw5UJrfoc)
+
+## Certifications
+
+### Udacity
+
+- [Front-End Nanodegree (Udacity)](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
+  - [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Front+End+Web+Dev+-+nd0011+-+syllabus.pdf)
+- [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
+  - [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/reactnd-syllabus-3.0.pdf)
+
+### Misk Academy
+
+Misk academy deliver practical and career focused courses led by top-quality faculty aimed at equipping young Saudis and professionals with the skills needed.
+
+- They regulerly post new certifications to enroll in. Don't mess it, it's a great chance for you to learn with a local community.
+- [Misk Academy website](https://www.miskacademy.edu.sa/)
+
+### Saudi Digital Academy
+
+A saudi initiative aimed to equipe young saudis with the skills needed in field such as web/mobile development, Data Analysics, AI, and Game Devepment.
+
+- [Website](https://sda.edu.sa/)
+
