@@ -1,7 +1,5 @@
 # Front-End roadmap
 
-- [Packages](#packages) - [Mad science](#mad-science)
-
 ## HTML
 
 - [HTML & CSS (Begginer) (Paid) ](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) - You will learn the basics pf HTML and CSS, With an intro to reponsive design
@@ -82,4 +80,3 @@ Misk academy deliver practical and career focused courses led by top-quality fac
 A saudi initiative aimed to equipe young saudis with the skills needed in field such as web/mobile development, Data Analysics, AI, and Game Devepment.
 
 - [Website](https://sda.edu.sa/)
-
