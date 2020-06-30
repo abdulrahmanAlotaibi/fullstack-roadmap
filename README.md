@@ -296,7 +296,7 @@ Misk academy deliver practical and career focused courses led by top-quality fac
 
 ### Saudi Digital Academy
 
-A saudi initiative aimed to equipe young saudis with the skills needed in fields such as web/mobile development, Data Analysics, AI, and Game Devepment.
+A saudi initiative aimed to equip young saudis with the skills needed in fields such as web/mobile development, Data Analytics, AI, and Game Devepment.
 
 - [Website](https://sda.edu.sa/)
 
