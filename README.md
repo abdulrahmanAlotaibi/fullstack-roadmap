@@ -120,6 +120,7 @@ Your rule as front-end developer is not to design user interfaces but to build i
 ## Rendering on the web
 
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
+- [Client-side vs. Server-side vs. Pre-rendering for Web Apps](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering)
 
 ## Performance
 
@@ -135,6 +136,7 @@ Your rule as front-end developer is not to design user interfaces but to build i
 - [Web Fundemntal (Google)](https://developers.google.com/web) - A great resource for learning the best standards and connvention in the modern web develpment
 - [Frontend master books (Free)](https://frontendmasters.com/books/) - every year frontend masters publish a book that covers all topics in frontend development. I highly reccoemnd reading the frontend handbook 2019
 - [Web.dev (Google)](https://web.dev/)
+- [Full stack open 2020 ](https://fullstackopen.com/en/) - Free course by university of Helsini, The oldest and largest science university in Finland. the content of the course is very relative and modern.
 
 ## Web 101
 
@@ -143,10 +145,12 @@ Your rule as front-end developer is not to design user interfaces but to build i
 - [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 - [HTTP Fundamentals](https://www.pluralsight.com/courses/xhttp-fund)
 - [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/#three-way-handshake)
+- [HTTP Status Codes](https://httpstatuses.com/)
 
 ## Podcasts
 
 - [Syntax: A Tasty Treats Podcast for Web Developers.](https://syntax.fm/)
+- [Base.cs](https://dev.to/basecspodcast) - Computer Science podcast
 
 ## Certifications
 
@@ -169,3 +173,38 @@ Misk academy deliver practical and career focused courses led by top-quality fac
 A saudi initiative aimed to equipe young saudis with the skills needed in fields such as web/mobile development, Data Analysics, AI, and Game Devepment.
 
 - [Website](https://sda.edu.sa/)
+
+# Backend
+
+In the backend we are going to use nodejs which is an enviroment for executing javaascript on your machine.
+
+## Nodejs
+
+- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11954326#overview)
+- [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/)
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp)
+- [Events and Event Emitter in Node.js](https://www.youtube.com/watch?v=l20MBBFZAmA&feature=emb_title)
+
+## Operating Systems : Operating system concepts 9th edition by Abraham Silbarschatz
+
+![d](os.jpg)
+
+## Relational Databases
+
+- [PostgreSQL Tutorials](https://www.postgresqltutorial.com/) - A great website for learning SQL and postgreSQL
+
+## NoSQL Databases
+
+- [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [MongoDB Complete Introduction & Summary](https://www.youtube.com/watch?v=VELru-FCWDM)
+- [Data Modeling Introduction](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
+- [Mongodb the Definitive Guide](https://www.amazon.co.uk/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449344682) - A great book for learning MongoDB in a great details.
+- [Data Modeling with MongoDB](https://www.youtube.com/watch?v=yuPjoC3jmPA)
+
+![s](https://images-na.ssl-images-amazon.com/images/I/71s-VDnaRGL.jpg)
+
+## ORM: Mongoose
+
+- [Mongoose docs](https://mongoosejs.com/docs/api.html)
+- [MongoDB Tutorial - Modeling with MongoDB](https://www.youtube.com/watch?v=4rhKKFbbYT4&feature=emb_title)
+- [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
