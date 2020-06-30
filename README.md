@@ -1,6 +1,4 @@
-# Front-End roadmap
-
-## Web 101
+# Front-End Roadmap
 
 ## HTML
 
@@ -45,7 +43,7 @@ Your rule as front-end developer is not to design user interfaces but to build i
 - [Method of Action](https://method.ac/) - Method of Action creates tools, toys and games to help you learn design, for free.
 - [Degreeless.design](https://www.degreeless.design/) - This is (almost) everything I learned in design school in one website
 
-## A11y
+## Accessibility (a11y)
 
 - [Web Content Accessibility Guidelines (WCAG) 2.0
   ](https://www.w3.org/TR/WCAG20/)
@@ -147,6 +145,8 @@ Your rule as front-end developer is not to design user interfaces but to build i
 - [Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/#three-way-handshake)
 - [HTTP Status Codes](https://httpstatuses.com/)
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/91EeModnt9L.jpg" width="40%" height="50%"/>
+
 ## Podcasts
 
 - [Syntax: A Tasty Treats Podcast for Web Developers.](https://syntax.fm/)
@@ -166,7 +166,7 @@ Your rule as front-end developer is not to design user interfaces but to build i
 Misk academy deliver practical and career focused courses led by top-quality faculty aimed at equipping young Saudis and professionals with the skills needed.
 
 - They regulerly post new certifications to enroll in. Don't mess it, it's a great chance for you to learn with a local community.
-- [Misk Academy website](https://www.miskacademy.edu.sa/)
+- [Misk Academy website](https://www.miskacademy.edu.sa/ | width=70)
 
 ### Saudi Digital Academy
 
@@ -174,7 +174,7 @@ A saudi initiative aimed to equipe young saudis with the skills needed in fields
 
 - [Website](https://sda.edu.sa/)
 
-# Backend
+# Backend Roadmap
 
 In the backend we are going to use nodejs which is an enviroment for executing javaascript on your machine.
 
@@ -186,10 +186,13 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 - [Events and Event Emitter in Node.js](https://www.youtube.com/watch?v=l20MBBFZAmA&feature=emb_title)
 - [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 - [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [Semantic Versioning](https://semver.org/)
+- [2.5 cors, json, jsonp - undergrad webdev summer 1 2017
+  ](https://www.youtube.com/watch?v=stvCHJZq5MI)
 
 ## Operating Systems : Operating system concepts 9th edition by Abraham Silbarschatz
 
-![d](os.jpg)
+<img src="./os.jpg" width="40%" height="50%"/>
 
 ## Relational Databases
 
@@ -203,7 +206,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 - [Mongodb the Definitive Guide](https://www.amazon.co.uk/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449344682) - A great book for learning MongoDB in a great details.
 - [Data Modeling with MongoDB](https://www.youtube.com/watch?v=yuPjoC3jmPA)
 
-![s](https://images-na.ssl-images-amazon.com/images/I/71s-VDnaRGL.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71s-VDnaRGL.jpg" width="40%" height="50%"/>
 
 ## ORM: Mongoose
 
@@ -222,6 +225,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
   - [Standard Error Responses - Google](https://developers.google.com/search-ads/v2/standard-error-responses)
   - [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
 - [jsonapi](http://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
+- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ## Logging
 
@@ -256,3 +260,5 @@ In the backend we are going to use nodejs which is an enviroment for executing j
   ](https://www.youtube.com/watch?v=7nafaH9SddU&t=232s)
 - [Session Authentication vs Token Authentication](https://security.stackexchange.com/questions/81756/session-authentication-vs-token-authentication)
 - [Getting, Setting, and Understanding Web Cookies using Express and WebdriverIO](https://spin.atomicobject.com/2018/09/26/setting-web-tracking-cookies/)
+- [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)
+  ](https://www.youtube.com/watch?v=2PPSXonhIck&t=380s)
