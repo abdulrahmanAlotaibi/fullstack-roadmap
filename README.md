@@ -184,6 +184,8 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 - [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/)
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp)
 - [Events and Event Emitter in Node.js](https://www.youtube.com/watch?v=l20MBBFZAmA&feature=emb_title)
+- [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+- [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 ## Operating Systems : Operating system concepts 9th edition by Abraham Silbarschatz
 
@@ -208,3 +210,49 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 - [Mongoose docs](https://mongoosejs.com/docs/api.html)
 - [MongoDB Tutorial - Modeling with MongoDB](https://www.youtube.com/watch?v=4rhKKFbbYT4&feature=emb_title)
 - [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
+
+## Creating Restful APIs
+
+- [What is REST](https://restfulapi.net/)
+- [Web API design - Azure docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9#comment-4865610272)
+- [REST API By Roy T.Fielding](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+- Error Handling in REST APIs
+  - [Problem Details for HTTP APIs - RFC 7807](https://tools.ietf.org/html/rfc7807)
+  - [Standard Error Responses - Google](https://developers.google.com/search-ads/v2/standard-error-responses)
+  - [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
+- [jsonapi](http://jsonapi.org/) - A SPECIFICATION FOR BUILDING APIS IN JSON
+
+## Logging
+
+- [A Guide to Node.js Logging
+  ](https://www.twilio.com/blog/guide-node-js-logging)
+- [The Cost of Logging - Matteo Collina, nearForm](https://www.youtube.com/watch?v=Dnx2SPdcDSU&t=820s)
+
+## Validation
+
+- [Input Validation on Client-side or Server-side?](https://www.packetlabs.net/input-validation/#:~:text=Input%20Validation%20on%20Server%2Dside&text=Using%20server%2Dside%20validation%20indicates,vulnerable%20to%20Cross%2DSite%20Scripting.&text=If%20a%20JavaScript%20payload%20of,the%20alert%20box%20will%20appear.)
+- [express-validator
+  6.6.0
+  Docs
+  API
+  ](https://express-validator.github.io/docs/)
+- [Express Tutorial Part 6: Working with forms
+  ](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms)
+
+## Authentication
+
+- [Everything You Ever Wanted to Know About Authentication
+  ](https://www.youtube.com/watch?v=j8Yxff6L_po&feature=emb_title)
+- [The JWT Handbook](https://www.fomasgroup.com/Portals/0/MgmNewsDocuments/jwt-handbook.pdf)
+- [RFC 7519 JSON Web Token - RFC 7519 ](https://tools.ietf.org/html/rfc7519)
+- [Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po&feature=emb_title)
+- [OWASP® Foundation](https://owasp.org/) - Security for developers
+- [Understanding cookies and sessions
+  ](https://www.lynda.com/Node-js-tutorials/Understanding-cookies-sessions/798496/5028751-4.html)
+- [Should you Implement Authentication Yourself?
+  ](https://www.youtube.com/watch?v=Hh_kiZTTBr0&feature=emb_title)
+- [Node.js API Authentication With JWT
+  ](https://www.youtube.com/watch?v=7nafaH9SddU&t=232s)
+- [Session Authentication vs Token Authentication](https://security.stackexchange.com/questions/81756/session-authentication-vs-token-authentication)
+- [Getting, Setting, and Understanding Web Cookies using Express and WebdriverIO](https://spin.atomicobject.com/2018/09/26/setting-web-tracking-cookies/)
