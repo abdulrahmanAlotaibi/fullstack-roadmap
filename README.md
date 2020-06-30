@@ -292,7 +292,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 Misk academy deliver practical and career focused courses led by top-quality faculty aimed at equipping young Saudis and professionals with the skills needed.
 
 - They regulerly post new certifications to enroll in. Don't mess it, it's a great chance for you to learn with a local community.
-- [Misk Academy website](https://www.miskacademy.edu.sa/ | width=70)
+- [Misk Academy website](https://www.miskacademy.edu.sa/)
 
 ### Saudi Digital Academy
 
