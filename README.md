@@ -12,15 +12,15 @@
 
 - [CSS Tricks (Free)](https://css-tricks.com/) - the best website for staying up-to-date with css.
 - [CSS Grids and Flexbox for Responsive Web Design (Paid)](https://frontendmasters.com/courses/css-grids-flexbox/) - in the old days there was no defined way of making grid systems, floats and table layouts were hacking ways to create layout. Now we have great layout solutions which is flexbox and css grid.
-- [BEM Naming Methodology ](http://getbem.com/naming/) - a great convention for naming classes.
-- [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development flow. I highly reccomend it
+- [BEM Naming Methodology ](http://getbem.com/naming/) - a convention for naming classes.
+- [Sass Crash Course (Free)](https://www.youtube.com/watch?v=nu5mdN2JIwM) - wrtiting your css with Sass pre-processor will make so much difference in your development work flow. I highly reccomend it
 - [Sass Guidlines: 7-1 Architecture](https://sass-guidelin.es/) - let's say you are building a design system or a huge project. you need an architecture to increase maintainability and your code quality overall.
 - [CSS State](https://2019.stateofcss.com/) - this is a helpful servey that shows the current state of CSS ecosystem
 - [Motion Design with CSS by Val Head | OpenVis Conference 2015](https://www.youtube.com/watch?v=bkLw5YIkRXw)
 - [Motion Design with CSS (Paid) (Intermediate)](https://frontendmasters.com/courses/motion-design-css/)
 - [CSS Specification](https://www.w3.org/Style/CSS/specs.en.html) - just for reference
 - [Even More CSS Secrets](https://www.youtube.com/watch?v=vs34f9FiHps) - CSS Secrets was a series of talks about some hidden features of css language
-- [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) - it's another way of architecting  your css. I use 7-1 architecture + Sass + BEM for writing matintanable and scalable css
+- [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) - it's another way of architecting your css. I use 7-1 architecture + Sass + BEM for writing matintanable and scalable css
   - [OOCSS: Object Orianted CSS](https://www.keycdn.com/blog/oocss)
 - [Web Fonts - The State of the Web](https://www.youtube.com/watch?v=L0xEOdybGFQ)
 - [Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
@@ -28,7 +28,7 @@
 
 ## Design for developers
 
-Your role as front-end developer is not to design user interfaces but to build it. with that being said I highly recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
+Your role as front-end developer is not to design user interfaces but to build it. with that being said I recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
 
 - [The non-designer book by robin Williams](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
 - [Design for Developers](https://frontendmasters.com/courses/design-for-developers/)
@@ -48,8 +48,8 @@ Your role as front-end developer is not to design user interfaces but to build i
 
 - [Web Content Accessibility Guidelines (WCAG) 2.0
   ](https://www.w3.org/TR/WCAG20/)
-- [Webaim Checklist](https://webaim.org/standards/wcag/checklist#sc2.1.2) - this is a great guide to implement accessibility features as a developer. a small note here: this is meant to be a summary for developer not as a leggal reference.
-- [Website Accessibility (Paid)](https://frontendmasters.com/courses/web-accessibility/) - a great workshop about the subject.
+- [Webaim Checklist](https://webaim.org/standards/wcag/checklist#sc2.1.2) - this is a guide to implement accessibility features as a developer. a small note here: this is meant to be a summary for developers not as a leggal reference.
+- [Website Accessibility (Paid)](https://frontendmasters.com/courses/web-accessibility/) - a workshop about the subject.
 - [Accessibility Manifesto](http://accessibilitymanifesto.com/introduction)
 - [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 - [Webaim Contrast Chcker](https://webaim.org/resources/contrastchecker/)
@@ -113,7 +113,7 @@ Your role as front-end developer is not to design user interfaces but to build i
 
 ## CSS in JS
 
-- [styled component docs](https://styled-components.com/docs) - styled component is a new way of writing CSS. it enforce the idea of coupling the markup, styles and the javascript logic for each component. a great way of styling react and react native applications.
+- [styled component docs](https://styled-components.com/docs) - styled component is a new way of writing CSS. it enforce the idea of coupling the markup, styles and the javascript logic for each component. an excellent way of styling react and react native applications.
 - [React Styled Components Tutorial](https://www.youtube.com/watch?v=syqw5UJrfoc)
 - [The Top 205 Styled Components Open Source Projects](https://awesomeopensource.com/projects/styled-components)
 
@@ -251,7 +251,6 @@ In the backend we are going to use nodejs which is an enviroment for executing j
   ](https://www.youtube.com/watch?v=j8Yxff6L_po&feature=emb_title)
 - [The JWT Handbook](https://www.fomasgroup.com/Portals/0/MgmNewsDocuments/jwt-handbook.pdf)
 - [RFC 7519 JSON Web Token - RFC 7519 ](https://tools.ietf.org/html/rfc7519)
-- [Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po&feature=emb_title)
 - [OWASP® Foundation](https://owasp.org/) - Security for developers
 - [Understanding cookies and sessions
   ](https://www.lynda.com/Node-js-tutorials/Understanding-cookies-sessions/798496/5028751-4.html)
