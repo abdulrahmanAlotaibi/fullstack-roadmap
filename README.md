@@ -205,6 +205,7 @@ In the backend we are going to use nodejs which is an enviroment for executing j
 ## Relational Databases
 
 - [PostgreSQL Tutorials](https://www.postgresqltutorial.com/) - A website for learning SQL and postgreSQL
+- [SQL Tutorials](https://www.scaler.com/topics/sql/) - Learn SQL in detail 
 
 ## NoSQL Databases
 
