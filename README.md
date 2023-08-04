@@ -4,6 +4,49 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 
 ![screely-1621816127208](https://user-images.githubusercontent.com/50620277/120562655-7ddb2700-c40f-11eb-94db-c64e100f2953.png)
 
+### Basic Steps for Full Stack Web Developer
+
+1. Learn Basic of:
+   - HTML
+   - CSS
+   - JavaScript
+2. Develop Simple Project using these technologies to understand how does the website actually work.
+3. Choose any 1 Front-End Technology:
+   - React JS
+   - Vue JS
+   - Angular
+4. Along with Front-End we need to study Back-End also:
+   - Java
+   - Python
+   - C#
+   - Ruby
+   - Php
+   - Node JS
+5. We need databases to store the data:
+
+- SQL
+  - MYSQL
+  - SQL Server
+  - Oracle
+  - Postegre SQL
+- NOSQL
+  - MongoDB
+  - Casssandra
+  - CouchDB
+
+6. Then we have different versions of the developed software with some changes, so we use:
+   - Git
+   - GitHub/GitLab/BitBucket
+7. Finally we need one of the Cloud Services to host the website:
+   - Google Cloud Platform
+   - Microsoft Azure
+   - Amazon Web Service
+   - Heroku
+8. Some containers used in Cloud Services:
+   - Docker
+   - Kubernetes
+
+## Once we prepare all these aspect for a particular project we can get a hang of Full Stack Web Development.
 
 # Front-End Roadmap
 
